@@ -1,0 +1,11 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v171)
+"   /afs/cri.epita.fr/user/r/ri/rich-antoine.pombou-ngueko/u/epita-ing-assistants-acu-piscine-2025-rich-antoine.pombou-ngueko/tinylibstream/include
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+libstream.h
+.libstream.h.swp
